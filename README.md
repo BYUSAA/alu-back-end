@@ -16,7 +16,7 @@ To set up and run this project, follow these steps:
 1. **Clone the repository**:
 
     ```sh
-    git clone https://github.com/BYUSAA/alu-back-end.git
+    git clone https://github.com/BYUUSSAA/alu-back-end.git
     cd alu-back-end
     ```
 
